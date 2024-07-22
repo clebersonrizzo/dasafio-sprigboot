@@ -1,5 +1,5 @@
 # Desafio Spring1 
-Primeiro desafio Spring pelo Bootcamp MELI/Digital House.
+Primeiro desafio Spring pelo Bootcamp.
 <br><br> Arquivos de configuração e payloads do postman no diretorio:
 <br> src/main/resources/postman/desafio-spring-1.postman_collection.json
 
